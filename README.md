@@ -15,3 +15,5 @@
 ⚡ Fun fact: blue archive & leauge of legends
 
 🥰Looking forward to joining blue archive and golang open source community!
+
+![20221205_183922](https://typora-1314425967.cos.ap-nanjing.myqcloud.com/typora/20221205_183922.jpg)
