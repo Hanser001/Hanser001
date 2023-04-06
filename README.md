@@ -8,4 +8,4 @@
 -->🌱 I’m currently learning Golang
 -->📫 How to reach me: nanach0@qq.com
 -->⚡ Fun fact: blue archive & leauge of legends
--->❤Looking forward to joining blue archive and golang open source community!
+-->🥰Looking forward to joining blue archive and golang open source community!
