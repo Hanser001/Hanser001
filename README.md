@@ -4,7 +4,9 @@
 **Hanser001/Hanser001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-🔭 A home fywoo
+🐭This is naNach0
+
+🎨Develops on the backend 
 
 🌱 I’m currently learning Golang
 
