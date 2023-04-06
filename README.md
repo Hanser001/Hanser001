@@ -12,7 +12,7 @@
 
 - 🥰Looking forward to joining blue archive and Golang open source community!
 
-  <img src="https://typora-1314425967.cos.ap-nanjing.myqcloud.com/typora/1670924662010.jpg" alt="1670924662010" style="zoom:10%;" div align=right />
+  <img src="https://typora-1314425967.cos.ap-nanjing.myqcloud.com/typora/1670924662010.jpg" alt="1670924662010" style="zoom:10%;" />
 
   
 
