@@ -12,7 +12,7 @@
 
 📫 How to reach me: nanach0@qq.com
 
-⚡ Fun fact: blue archive & leauge of legends
+⚡ Loves : Blue Archive & Leauge of Legends
 
 🥰Looking forward to joining blue archive and golang open source community!
 
