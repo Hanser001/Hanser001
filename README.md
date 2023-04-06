@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🐭This is naNach0  <img src="https://typora-1314425967.cos.ap-nanjing.myqcloud.com/typora/1670924662010.jpg" alt="1670924662010" style="zoom:25%;" div align=right />
+🐭**This is naNach0**  <img src="https://typora-1314425967.cos.ap-nanjing.myqcloud.com/typora/1670924662010.jpg" alt="1670924662010" style="zoom:10%;" div align=right />
 
 - 🎨Develops on the Backend 
 
